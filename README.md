@@ -1,1 +1,10 @@
 # data-analytics-portfolio
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations from the Data Science & Analytics program with [HackerU](https://hackerusa.com/).
+
+## SQL
+
+## Statistics
+
+## Visual Communications
+
